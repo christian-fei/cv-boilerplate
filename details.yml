@@ -1,16 +1,18 @@
 ---
 # Personal details
-name: Friedrich Nietzsche
+name: Christian Fei
 address:
-- Humboldtstraße 36
-- 99425 Weimar
-- Prussia
-phone: "+49 03643 545400"
-email: friedrich@thevoid.de
+- Corso Buonarotti 16
+- 38122 Trento
+- Italy
+phone: "+39 345 4459764"
+email: christian@fei.ninja
 # Insert URLs without http://
 urls:
-- wki.pe/friedrich_nietzsche
-- twitter.com/tinynietzsche
+- christian.fei.ninja
+- linkedin.com/in/christian-fei-6b72b5123
+- twitter.com/christian_fei
+- github.com/christian-fei
 
 # Sections
 
